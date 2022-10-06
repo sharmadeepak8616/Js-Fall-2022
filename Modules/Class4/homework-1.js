@@ -1,5 +1,9 @@
 /**
- * Convert temperature values into different units
+ * Homework - 1
+ * 
+ * Due date : Friday (Oct-7) eod
+ * 
+ * Convert temperature values into different units:
  * 
  * F -> C
  * F -> K
