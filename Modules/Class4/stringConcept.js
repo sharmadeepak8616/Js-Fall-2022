@@ -4,8 +4,18 @@ console.log(`\nmyCity -> ${myCity}`);
 console.log(`\ntypeof myCity -> ${typeof myCity}`);
 
 /**
+ * discussed string-functions:;
+ * 
+ * length (property)
+ * toUpperCase()
+ * toLowerCase()
+ */
+
+/**
  * To find the number of characters in a string (length of string):
  * property: length
+ * 
+ * return type: number
  */
 let myCityLength = myCity.length;
 console.log(`\nmyCityLength -> ${myCityLength}`);
@@ -21,6 +31,8 @@ console.log(`\n\nmessage -> ${message}\n\n`);
 /**
  * To convert String into UPPERCASE
  * function: toUpperCase()
+ * 
+ * return type: string
  * 
  * toUpperCase() does NOT change the value in original variable
  * 
@@ -38,6 +50,8 @@ console.log(`myCityUppercase -> ${myCityUppercase}\n`);
 /**
  * To convert String into lowercase
  * function: toLowerCase()
+ * 
+ * return type: string
  * 
  * toLowerCase() does NOT change the value in original variable
  * 
