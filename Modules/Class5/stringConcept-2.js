@@ -6,9 +6,16 @@ console.log(`\nmyCity -> ${myCity}`);
  * discussed string-functions:;
  * 
  * startsWith()
- * endsWith
+ * endsWith()
  * includes()
  * replace()
+ * concat()
+ * trim()
+ * padStart()
+ * padEnd()
+ * charAt()
+ * indexOf()
+ * lastIndexOf()
  * 
  */
 
