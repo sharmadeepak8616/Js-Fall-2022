@@ -3,7 +3,7 @@
  * 
  * map()
  * filter()
- * 
+ * every()
  * 
  * 
  */

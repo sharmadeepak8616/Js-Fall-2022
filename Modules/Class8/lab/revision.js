@@ -1,3 +1,12 @@
+const MyStringFunctions = require('../../Class13/Class-Concept/myStringFunctions');
+const Class1 = require('../../Class17/ConstructorPkg/Class1');
+
+
+const c1 = new Class1();
+
+
+
+
 str1 = 'hello';
 str2 = 'Hello';
 
@@ -183,3 +192,9 @@ monthName = monthName.charAt(0).toUpperCase() + monthName.substring(1).toLowerCa
 
 console.log(`\nSeason for month(${monthName}) -> ${seasonName}\n`);
 // Season for month (Jan) -> Winter
+
+// Class-concept demo:
+
+const abc = new MyStringFunctions();
+
+console.log(abc.reverseStringWordByWord('king kong'));

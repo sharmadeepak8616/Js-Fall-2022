@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sharmadeepak8616/Js-Fall-2022/issues"
   },
-  "homepage": "https://github.com/sharmadeepak8616/Js-Fall-2022#readme"
+  "homepage": "https://github.com/sharmadeepak8616/Js-Fall-2022#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "moment": "^2.29.4"
+  }
 }
