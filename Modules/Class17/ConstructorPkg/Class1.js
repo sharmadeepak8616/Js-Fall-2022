@@ -7,10 +7,10 @@ class Class1 {
     name2 = 'Name Two';
     name3 = 'Name Three';
 
-    constructor(username) {
-        console.log(`\nIn the constructor function with username = ${username}`);
+    constructor() {
+        console.log("In the function2");
     }
-
+    
     #function1() {
         console.log("In the function1");
     }

@@ -9,7 +9,7 @@ try {
     const s2 = new Students(22, 'pm', 'sTudent tWO', 's2@test.com', 'CAN');
     s2.getProfile();
 
-    const s4 = new Students(22, 'abc', 'sTudent fOuR', 's4@test.com', 'CAN');
+    const s4 = new Students(12, 'abc', 'sTudent fOuR', 's4@test.com', 'CAN');
     s4.getProfile();
 
     const s3 = new Students(18, 'Qa', 'StudeNT tHReE', 's3@test.com', 'TX');

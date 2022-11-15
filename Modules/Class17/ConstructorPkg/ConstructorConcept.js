@@ -24,3 +24,12 @@
  * Constructor Overloading - Two or more Constructor-functions but different parameters in a class
  * 
  */
+
+const c = new Class1();
+// c.function2();
+
+const c2 = new Class1();
+// c2.function2();
+
+const c3 = new Class1();
+// c3.function2();
