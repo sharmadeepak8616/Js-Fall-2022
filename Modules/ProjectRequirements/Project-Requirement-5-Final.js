@@ -23,15 +23,19 @@
  * Offered courses and Fee:
  *      course: QA
  *      fee: 4000
+ *      salary: 120000
  * 
  *      course: PM
  *      fee: 3000
+ *      salary: 100000
  * 
  *      course: Front End
  *      fee: 5000
+ *      salary: 130000
  * 
  *      course: Full Stack
  *      fee: 8000
+ *      salary: 150000
  * 
  * 
  */ 
